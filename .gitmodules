@@ -7,3 +7,6 @@
 [submodule "KanbanBoardProject"]
 	path = KanbanBoardProject
 	url = https://star114@github.com/star114/KanbanBoardProject.git
+[submodule "eBoard"]
+	path = eBoard
+	url = https://star114@github.com/star114/eBoard.git
